@@ -1,10 +1,10 @@
-package br.univille.sistemachocolateria;
+package br.univille.sportstock;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SistemachocolateriaApplicationTests {
+class SportStock {
 
 	@Test
 	void contextLoads() {
